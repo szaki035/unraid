@@ -1,0 +1,320 @@
+A registration replacement key has been created for USB Flash GUID=Eine Ersatzregistrierungslizenz wurde für die USB Flash GUID erstellt
+About=Über
+alert=Alarm
+An email has been sent to=Eine Email wurde gesendet an
+and=und
+Anonymize diagnostics=Diagnose anonymisieren
+Anytime=Jederzeit
+Archived Notifications=Archivierte Benachrichtigungen
+Are you sure=Sind Sie sicher
+Array has been Reset=Array wurde **zurückgesetzt**
+Array must be Started to change permissions=Array muss **gestartet** sein, um Berechtigungen zu ändern
+Array must be Stopped to change=Zum ändern muss das Array **gestoppt** sein:
+Array slots=Array slots
+Array=Array
+Author=Autor
+Beta=
+Blacklisted USB Flash GUID=Gesperrte USB Flash GUID
+Branch=Zweig
+By using this software, you agree with our=Mit der Nutzung dieser Software stimmen Sie folgendem zu:
+Cache slots=Cache Slots
+Cannot connect to key-server=Es konnte keine Verbindung zum Key-Server hergestellt werden
+Check for Updates=Auf Aktualisierungen Prüfen
+click Install Key=Klicke <i>Lizenz Installieren</i>
+collecting diagnostic information this may take several minutes=Sammeln von Diagnose Informationen (dies kann mehrere Minuten dauern)
+Component=Komponente
+Credits=Namensnennungen
+Data slots=Daten Slots
+Delete all notifications=Lösche alle Benachrichtigungen
+Delete notification=Benachrichtigung löschen
+Developer=Entwickler
+Diagnostics=Diagnose
+Disks=Datenträger
+Display Settings=Darstellungseinstellungen
+Downloading=Herunterladen
+End-User License Agreement=Endbenutzer-Lizenzvereinbarung
+Enter URL of language pack XML file=URL für das XML-Sprachpaket eingeben
+Error accessing your physical USB Flash boot device=Fehler beim Zugriff auf das USB Bootgerät
+EULA=EULA
+Event=Ereignis
+Expiration=Ablauf
+Extend=Verlängern
+extended=verlängert
+Get Trial Key=Probelizenz beantragen
+Hardware Profile=Hardwareprofil
+Hide Details=Details Ausblenden
+If you do not receive an email, please check your spam or junk-email folder=Falls Sie keine Email erhalten haben, bitte den Spam- oder Junk-Email Ordner überprüfen
+Importance=Wichtigkeit
+Important=Wichtig
+Install Language=Installiere Sprache
+Install=Installieren
+Installed languages=Installierte Sprachen
+Invalid Trial Installation=Invalide *Probeinstallation*
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=Sammelt alle Systemhardwareinformationen, alle Seriennummern werden entfernen und verschlüsselt zu LimeTech hochladen
+Key file URL=Lizenzdatei URL
+Language support added=Sprache hinzugefügt
+Language support deleted=Sprache entfernt
+Language=Sprache
+Missing Key File=Fehlende Lizenzdatei
+Missing Language=Fehlende Sprache
+Network Settings=Netzwerkeinstellungen
+New Config=Neue Konfiguration
+New Permissions=Neue Berechtigungen
+Next=
+No notifications present=Keine Benachrichtigungen vorhanden
+No personal information such as user names, passwords, or any other file contents is included in the hardware profile=Keine persönlichen Informationen wie Benutzernamen, Passwörter oder andere Dateiinhalte sind im Hardwareprofil enthalten
+normal=normal
+Only ZIP files are allowed=Nur ZIP Dateien erlaubt
+Page Map=Seitenverzeichnis
+Parity slots=Parität Slots
+Please check your=Bitte prüfen Sie Ihre
+please configure=bitte konfigurieren
+Please select a language before proceeding=Bitte vor dem Fortfahren eine Sprache auswählen
+Please=Bitte
+Pool slots=Pool slots
+Preserve current assignments=Aktuelle Zuweisungen speichern
+previous=vorherig
+Privacy Policy=Datenschutzerklärung
+Processes=Prozesse
+Purchase Key=Lizenz Erwerben
+Registered GUID=Registrierte GUID
+Registered on=Registriert am
+Registered to=Registriert bei
+registering USB Flash GUID=USB Flash GUID registrieren
+Release has been withdrawn=Version wurde zurückgezogen
+Remove the installed language=Installierte Sprache entfernen
+Replaceable=Ersetzbar
+Request Extension=Verlängerung Beantragen
+Request Trial Extension=Lizenzverlängerung Beantragen
+Restore=Wiederherstellen
+See=Siehe
+Select language file=Sprachdatei auswählen
+Select language=Sprache auswählen
+Show Details=Details anzeigen
+slots=Slots
+Stable=
+Subject=Betreff
+System Devices=Systemgeräte
+System Update Check=System Update Check
+Text=Text
+Thank you for choosing Unraid OS=Vielen Dank, dass Sie sich für Unraid OS entschieden haben
+Thank you for registering USB Flash GUID=Vielen Dank für die Registrierung der USB Flash GUID
+Thank you for trying Unraid OS=Vielen Dank, dass Sie Unraid OS testen
+The registered GUID does not match the USB Flash boot device GUID=Die registrierte GUID stimmt nicht mit dem USB Flash Bootgerät überein
+There is a physical problem accessing your USB Flash boot device=Es besteht ein Problem beim Zugriff auf Ihr USB Flash Bootgerät
+this may take several minutes=dies kann mehrere Minuten dauern
+This release has been withdrawn for use with Trial keys=Diese Version wurde für die Verwendung mit Probelizenzen zurückgezogen
+This server has %s attached storage device=Dieser Server hat %s angeschlossene Datenträger
+This server has %s attached storage devices=Dieser Server hat %s angeschlossene Datenträger
+This utility is used for troubleshooting purposes=Dieses Dienstprogramm dient zur Fehlerbehebung
+This will delete all notification files=Dies löscht alle Benachrichtigungsdateien
+This will update folder file permissions=Aktualisiert Ordner- & Dateieberechtigungen
+Time=Zeit
+To install a registration key, paste the key file URL in the box below and click Install Key=Um eine Registrierungslizenz zu installieren, die Lizenz URL in die Zeile unten einfügen und auf **Lizenz Installieren** klicken
+to select your language=um Ihre Sprache auszuwählen
+Trial key expires on=***Probelizenz*** läuft ab am
+Trial=Probe
+Update OS=OS aktualisieren
+Upgrade Key=Lizenz-Upgraden
+Uploaded=Hochgeladen
+uploading hardware information=Hardware Informationen hochladen
+Uploading=Hochladen von
+Use this to develop language packs=Verwenden, um Sprachpakete zu entwickeln
+Use this to install official language packs=Verwenden, um offizielle Sprachpakete zu installieren
+User Shares=Benutzerfreigaben
+User=Benutzer
+Vars=Vars
+VFIO-PCI Log=VFIO-PCI Log
+View VFIO-PCI Log=VFIO-PCI Log ansehen
+warning=Warnung
+webGUI=WebGUI
+When received, please paste the URL into the Key file URL box and=Wenn Sie die <i>Lizenzdatei</i> erhalten haben bitte die URL in die Zeile einfügen und
+Wrong File Extension=Falsche Dateierweiterung
+You havent sent Limetech your hardware profile yet=Sie haben Limetech Ihr Hardwareprofil noch nicht gesendet
+Your hardware profile was last submitted on=Ihr Hardwareprofil wurde zuletzt übermittelt am
+Your Trial key has expired=Ihre *Probelizenz* ist abgelaufen
+Your Trial key requires an internet connection=Ihre *Probelizenz* benötigt eine Internetverbindung
+
+; Sysdevs text - added May 18, 2020
+A reboot is required to apply changes=Zum Übernehmen der Einstellungen ist ein Neustart erforderlich
+ALERT=ALARM
+Bind selected to VFIO at Boot=Wird beim Booten an VFIO gebunden
+CPU Thread Pairings=CPU Thread Verknüpfungen
+Changes saved=Änderungen gespeichert
+Function Level Reset FLR supported=Function Level Reset (FLR) unterstützt
+In use by Unraid=Wird von Unraid benutzt
+Kernel driver in use vfio-pci=Benutzter Kernel Treiber: vfio-pci
+No changes=Keine Änderungen
+PCI Devices and IOMMU Groups=PCI Geräte und IOMMU Gruppen
+PCI Devices No IOMMU Groups Available=PCI Devices (Keine IOMMU Gruppen verfügbar)
+Reboot to take effect=Neustarten um zu Übernehmen
+SCSI Devices=SCSI Geräte
+The below list doesnt not reflect the way IOMMU would naturally group devices=Die untenstehende Liste spiegelt nicht die Art und Weise wider, wie IOMMU Geräte standardmäßig gruppiert sind
+This controller is bound to vfio, connected USB devices are not visible=Dieser Controller ist an vfio gebunden, angeschlossene USB Geräte sind nicht sichtbar
+This controller is bound to vfio, connected drives are not visible=Dieser Controller ist an vfio gebunden, angeschlossene Datenträger sind nicht sichtbar
+To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=Um die Standard IOMMU Gruppen für Ihre Hardware anzuzeigen, muss auf der [VM Manager] Seite die **PCIe ACS erzwingen** Einstellung auf **Deaktiviert** gesetzt werden
+USB Devices=USB Geräte
+Your system has booted with the PCIe ACS Override setting enabled=Das System wurde mit der PCIe ACS erzwingen Einstellung gestartet
+
+:diagnostics_1_plug:
+Diese Anwendung wird zur Fehlerbehebung verwendet. Es sammelt alle Hardwareinformationen und Konfigurationsdateien und packt diese Dateien als ZIP Datei, die lokal gespeichert werden kann.
+Anschließend kann die Datei Limetech gesendet werden bzw. im Forum verwendet werden.
+
+Dies hilft anderen sich schnell einen Überblick über Ihr System zu verschaffen und Hilfe zu Leisten. Die folgenden Informations-
+und Konfigurationsdateien werden gesammelt:
+:end
+
+:diagnostics_2_plug:
++ */config*
+  <br>alle *\*.cfg Dateien*, die *go* Datei und die *super.dat* Datei. Diese sind Konfigurationsdateien.
++ */config/shares*
+  <br>alle *\*.cfg* Dateien. Diese sind die Benutzer Freigabeeinstellungsdateien.
++ *Syslog Datei(en)*
+  <br>Aktuelle *syslog* Datei und alle vorherig existierenden *syslog* Dateien.
++ *System*
+  <br>Die Ausgabe folgender Befehle:
+  <br>lsscsi, lspci, lsusb, free, lsof, ps, ethtool & ifconfig.
+  <br>Anzeige der IOMMU Gruppen.
+  <br>Anzeige der Kommandozeile Parameter (z.B. PCIE ACS erzwingen, PCI stubbing, etc).
+  <br>System Variablen.
++ *SMART Bericht*
+  <br>Ein SMART Bericht von jedem individuellen Datenträger, der sich im System befindet.
++ *Docker*
+  <br>*docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* und *vfio-pci* Dateien.
+:end
+
+:diagnostics_3_plug:
+Ein Klick auf **Download** wird den Prozess starten und weist den Browser an, die ZIP Datei lokal zu speichern.
+
+*Keine persönlichen Informationen wie Benutzernamen, Passwörter oder andere nicht oben aufgelisteten Dateiinhalte werden von Unraid
+miteinbezogen; Servername, IP Adresse und andere Benutzerfreigaben* **werden** *jedoch* *miteinbezogen.*
+
+*Beachten Sie, dass Plugins von Drittanbietern **möglicherweise** persönliche Informationen in pluginspezifischen Konfigurationsdateien
+und/oder System Protokollen speichern könnten.*
+
+*Benutzen Sie* **Diagnose anonymisieren** *, wenn die Diagnosedateien in einem öffentlichen Forum gepostet werden. In privater Kommunikation
+mit Limetech ist es empfohlen, diese Einstellung abzuwählen und alle Informationen unverändert zu erfassen.*
+:end
+
+:newconfig_plug:
+Dies ist eine Anwendung, um die Array Datenträger Konfiguration zurückzusetzen, sodass alle Datenträger
+als "Neue" Datenträger erscheinen, als wäre dies ein neuer Server.
+
+Nützlich, wenn mehrere Datenträger hinzugefügt oder entfernt wurden und eine Paritätsdatenwiederherstellung
+basierend auf der neuen Konfiguration erwünscht ist.
+
+*'Aktuelle Zuordnung speichern'* benutzen, um die gewählten Datenträgerslots zu behalten, ***nachdem*** das Array zurückgesetzt wurde.
+Standardmäßig  werden **keine** Datenträger zugewiesen.
+
+**BENUTZEN SIE DIESE ANWENDUNG NICHT UM EINEN FEHLERHAFTEN DATENTRÄGER ZU REPARIEREN DA DIES NICHT FUNKTIONIERT** - dies
+hat die gegenteilige Wirkung. Es macht es **unmöglich**, die Daten eines fehlerhaften Datenträgers wiederherzustellen - Sie wurden gewarnt!
+:end
+
+:newperms_1_plug:
+Diese Aktion ist einmalig notwendig, falls sie von einer Unraid Server Version von vor 5.0 auf Unraid Version 5.0 oder
+höher aktualisieren.
+Wählen Sie **ALLE DATENTRÄGER** aus falls diese einmalige Aktion ausgeführt wird.
+
+Diese Anwendung ist auch nützlich, um die Standardberechtigungen/-eigentümer von Dateien
+und Verzeichnissen wiederherzustellen, wenn von einer Active Directory zu einer
+Nicht-Active Directory Integration zurückgewechselt wird.
+
+Diese Anwendung startet einen Hintergrundprozess, welches auf jedem Array- und Cachedatenträger sowie ausgewählter
+Benutzerfreigaben und Verzeichnissen den Eigentümer zu * nobody/users* (d.h. UID/GID gleich 99/100) ändert und setzt folgende Berechtigungen:
+:end
+
+:newperms_2_plug:
+Für Verzeichnisse:
+  drwxrwxrwx
+
+Für Dateien mit lese/schreib Berechtigungen:
+  -rw-rw-rw-
+
+Für schreibgeschützte Dateien:
+  -r--r--r--
+:end
+
+:newperms_3_plug:
+Klick auf **Start** öffnet ein neues Fenster und startet den Hintergrundprozess.
+
+Das Schließen des Fensters beendet den Hintergrundprozess - bitte nicht schließen. Der Prozess kann eine lange Zeit
+in Anspruch nehmen, je nachdem wieviele Dateien vorhanden sind.
+
+Beachten Sie, dass dieses Tool die Docker Container möglicherweise negativ beeinflussen kann, wenn die appdata Freigabe vom diesem Tool miteinbezogen wird.
+:end
+
+:registration_1_plug:
+Der Server ist nur Nutzbar, bis eine Lizenz gekauft oder eine kostenlose 30-Tage *Probelizenz*
+installiert wurde. Eine *Probelizenz* beinhaltet alle Funktionalitäten einer *Pro* Lizenz.
+
+Lizenzen sind an der Seriennummer des USB Flash Bootgeräts (GUID) gebunden. Bitte benutzen Sie ein hochwertiges Gerät
+eines bekannten Herstellers von mindestens 1GB.
+
+Hinweis: USB Speicherkartenlesegeräte sind generell **nicht** unterstützt, da bei den meisten keine einzigartige Seriennummer vorhanden ist.
+:end
+
+:registration_2_plug:
++ Bitte stellen Sie sicher, dass Ihre [Serverzeit][DateTime] richtig eingestellt ist, Tolleranz 5 Minuten.
++ Bitte stellen Sie sicher, dass ein [DNS Server](DateTime) gesetzt ist.
+:end
+
+:registration_3_plug:
+Ihre *Probelizenz* beinhaltet alle Funktionalitäten und Datenträgerunterstützungen einer *Pro* Lizenz.
+
+Nachdem die *Probelizenz* abgelaufen ist, funktioniert der Server **normal**, bis das Array das **gestoppt** wird.
+
+An diesem Punkt können Sie entweder eine Lizenz erwerben oder eine *Probelizenzverlängerung* beantragen.
+:end
+
+:registration_4_plug:
+Um Unraid OS weiterhin benutzen zu können, können Sie eine Lizenz erwerben. Alternativ können Sie eine *Probelizenzverlängerung* beantragen.
+
+Die meisten *Probelizenz* Verlängerungsanträge werden sofort bearbeitet, aber bitte erlauben Sie uns bis zu einem Werktag, um Ihren *Probe* Verlängerungslizenz zu erhalten.
+:end
+
+:registration_5_plug:
+Es ist nicht möglich, eine *Probelizenz* mit einer existierenden Unraid OS Installation zu verwenden.
+
+Es ist möglich, eine Lizenz für das aktuell verwendete USB Flash Gerät zu erwerben, um die vorhandene Installation weiterhin verwenden zu können.
+
+Für weitere Informationen, bitte den [Support Kontaktieren](https://lime-technology.com/contact).
+:end
+
+:registration_6_plug:
+Es scheint als fehle Ihre Lizenzdatei oder sie ist beschädigt. Die Lizenzdatei sollte in dem Verzeichnis
+[config](/Registration/Browse?dir&#61;/boot/config) auf Ihrem USB Flash Bootgerät zu finden sein.
+
+Falls Sie kein Backup Ihrer Lizenzdatei haben, bitte den [Support Kontaktieren](https://lime-technology.com/contact).
+
+Falls dies eine *Probeinstallation* war, können Sie eine Lizenz erwerben.
+:end
+
+:registration_7_plug:
+*Probeinstallationen* sind nur mit dem ursprünglich registrierten USB Flash Gerät erlaubt.
+
+Um weiterhin diese Installation mit diesem USB Flash Gerät zu verwenden, können Sie eine Lizenz erwerben.
+:end
+
+:registration_8_plug:
+Die Lizenzdatei stimmt nicht mit dem USB Flash Bootgerät überein.
+Bitte kopieren Sie die korrekte Lizenzdatei in das Verzeichnis [config](/Registration/Browse?dir&#61;/boot/config)
+auf Ihrem USB Flash Bootgerät. Falls Sie kein Backup Ihrer Lizenzdatei haben, bitte den [Support Kontaktieren](https://lime-technology.com/contact).
+
+Falls Sie Ihre Lizenz mit einer neuen Lizenz für dieses neue USB Flash Gerät ersetzen wollen, klicken Sie unten auf Lizenz Ersetzen.
+Eine Originallizenz kann jederzeit ersetzt werden. Danach kann eine Ersatzlizenz erst nach Ablauf eines Jahres erneut ersetzt werden.
+Wenn Sie eine Ersatzlizenz früher benötigen, bitte den [Support Kontaktieren](https://lime-technology.com/contact).
+
+**Hinweis:** Das Ersetzen einer Lizenz führt dazu, dass die vorherige USB Flash GUID dauerhaft *gesperrt* wird.
+:end
+
+:registration_9_plug:
+Diese USB Flash Bootgerät GUID ist *gesperrt*. Sie haben möglicherweise Ihrer Lizenz auf ein neus USB Bootgerät übertragen
+und Sie verwenden derzeit Ihr altes USB Bootgerät, um den Server zu starten.
+
+Ein USB Flash Gerät kann auch *gesperrt* werden, wenn es keine Seriennummer gibt oder wenn wir feststellen, dass die
+Seriennummer nicht einmalig ist (dies ist bei USB Kartenlesegeräten meistens üblich).
+
+Für weitere Informationen, bitte den [Support kontaktieren](https://lime-technology.com/contact).
+:end
+
+; Note: November 18, 2021 - 3 missing translations

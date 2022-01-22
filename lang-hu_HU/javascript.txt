@@ -1,0 +1,68 @@
+also remove image=Abbild auch entfernen
+Apply=Anwenden
+Are you sure=Sind Sie sicher?
+Cancel=Abbrechen
+checking=Überprüfung läuft
+Completely REMOVE=Vollständig ENTFERNEN
+Console=Konsole
+day=Tag
+days=Tage
+disk image and definition=Datenträger Abbild und Definition
+Disks=Datenträger
+Donate=Spenden
+Done=Erledigt
+Edit=Bearbeiten
+Execution error=Fehler bei der Ausführung
+Force Stop=Beenden erzwingen
+Hibernate=Ruhezustand
+Log for=Protokolldatei für:
+log=Protokolldatei
+Logs=Protokolldateien
+More Info=Mehr Infos
+No=Nein
+OK=OK
+Ok=Ok
+Pause=Pause
+Proceed=Fortfahren
+Project Page=Projektseite
+Read Me First=Zuerst lesen
+Remove container=Container entfernen
+Remove definition=Definition entfernen
+Remove image=Abbild entfernen
+Remove VM=VM entfernen
+Remove=entfernen
+Restart=Neustart
+Resume=Wiederaufnehmen
+Start=Starten
+Stop=Beenden
+Support=Hilfe
+Update container=Container aktualisieren
+Update=aktualisieren
+Updating all Containers=Alle Container werden aktualisiert
+Updating the container=Container wird aktualisiert
+VNC Remote=VNC Remote
+WebUI=WebUI
+Yes, delete it=Ja, entfernen
+Yes, update it=Ja, aktualisieren
+Yes=Ja
+
+; footer messages
+Array Starting=Array startet
+Array Stopping=Array wird beendet
+Mounting disks=Datenträger werden eingehängt
+Spinning up all drives=Alle Datenträger werden angefahren
+Starting services=Starte Dienste
+Stopping services=Beende Dienste
+Unmounting disks=Datenträger werden ausgehängt
+Autostart disabled=Autostart deaktiviert
+Missing encryption key=Fehlender Verschlüsselungsschlüssel
+Opening encrypted volumes=Entsperre Verschlüsselte Volumen
+
+; docker variables
+Container Path=Container Pfad
+Container Port=Container Port
+Container Variable=Container Variable
+Container Label=Container Bezeichnung
+Container Device=Container Gerät
+
+; Note: November 16, 2021 - 7 missing translations
